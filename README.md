@@ -7,8 +7,8 @@ This project combines functional and object-oriented programming paradigms, focu
 
 The ants.zip archive contains several files, but all of my changes were made to ants.py.
 
-My code is contained in sections that begin with: #BEGIN PROBLEM XX
-and end with: #END PROBLEM XX
+My code is contained in sections that begin with: #BEGIN Problem XX
+and end with: #END Problem XX
 
 ants.py: The game logic of Ants Vs. SomeBees
 ants_gui.py: The original GUI for Ants Vs. SomeBees
